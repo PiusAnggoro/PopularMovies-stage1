@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="app_name2">Top Rated Movies</string>
+    <string name="sort_by">Sort by</string>
+    <string name="title_activity_movie_detail">Movie Detail</string>
+    <string name="action_popular">Sort by Popular</string>
+    <string name="action_highest_rate">Sort by Highest Rate</string>
+    <string name="info">Movie Info</string>
+    <string name="rating">Rating (TMDB)</string>
+    <string name="release_date">Release Date</string>
+    <string name="description">Description :</string>
+</resources>
