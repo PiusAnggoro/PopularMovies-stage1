@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
                 .setRequestInterceptor(new RequestInterceptor() {
                     @Override
                     public void intercept(RequestFacade request) {
-                        request.addEncodedQueryParam("api_key", "8b516ca53bb3a1dcbb955e2feec5ffc5");
+                        request.addEncodedQueryParam("api_key", YOUR_API_KEY);
                     }
                 })
                 .setLogLevel(RestAdapter.LogLevel.FULL)
